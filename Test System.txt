@@ -1,0 +1,19 @@
+1. Masker atau tidak.
+	- Masker
+	- No Masker
+2. Masker polos atau bercorak.
+	- Polos Item
+	- Masker Kesehatan
+	- Masker Batik
+	- Masker Kain
+3. Jarak wajah dengan kamera.
+	- 50 cm
+	- 80 cm
+	- 110 cm
+	- 140 cm
+	- 200 cm
+4. Jumlah orang di dalam kamera.
+	- 1 Orang
+	- 2 Orang
+	- 3 Orang
+	- 4 Orang
